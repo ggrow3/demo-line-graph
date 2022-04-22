@@ -1,2 +1,2 @@
-altair
+
 pandas_datareader 
