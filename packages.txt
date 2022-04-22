@@ -1,1 +1,2 @@
 altair
+pandas_datareader 
