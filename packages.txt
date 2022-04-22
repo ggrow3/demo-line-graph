@@ -1,2 +1,4 @@
-
-pandas_datareader 
+streamlit
+pandas
+altair
+pandas_datareader
